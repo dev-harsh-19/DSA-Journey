@@ -7,11 +7,13 @@ This repository contains my daily Data Structures and Algorithms practice soluti
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dev-harsh-19/DSA-Journey/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/dev-harsh-19/DSA-Journey/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/dev-harsh-19/DSA-Journey/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/dev-harsh-19/DSA-Journey/tree/master/0232-implement-queue-using-stacks) |
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/dev-harsh-19/DSA-Journey/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/dev-harsh-19/DSA-Journey/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/dev-harsh-19/DSA-Journey/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
