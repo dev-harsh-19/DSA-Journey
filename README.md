@@ -6,6 +6,7 @@ This repository contains my daily Data Structures and Algorithms practice soluti
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/dev-harsh-19/DSA-Journey/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/dev-harsh-19/DSA-Journey/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/dev-harsh-19/DSA-Journey/tree/master/0232-implement-queue-using-stacks) |
 ## Design
@@ -18,4 +19,8 @@ This repository contains my daily Data Structures and Algorithms practice soluti
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/dev-harsh-19/DSA-Journey/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/dev-harsh-19/DSA-Journey/tree/master/0232-implement-queue-using-stacks) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/dev-harsh-19/DSA-Journey/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
