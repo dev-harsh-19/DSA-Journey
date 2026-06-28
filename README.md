@@ -11,6 +11,7 @@ This repository contains my daily Data Structures and Algorithms practice soluti
 | [0225-implement-stack-using-queues](https://github.com/dev-harsh-19/DSA-Journey/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/dev-harsh-19/DSA-Journey/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/dev-harsh-19/DSA-Journey/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/dev-harsh-19/DSA-Journey/tree/master/0503-next-greater-element-ii) |
 ## Design
 |  |
 | ------- |
@@ -30,6 +31,7 @@ This repository contains my daily Data Structures and Algorithms practice soluti
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/dev-harsh-19/DSA-Journey/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/dev-harsh-19/DSA-Journey/tree/master/0503-next-greater-element-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,4 +40,5 @@ This repository contains my daily Data Structures and Algorithms practice soluti
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/dev-harsh-19/DSA-Journey/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/dev-harsh-19/DSA-Journey/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
