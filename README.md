@@ -27,6 +27,7 @@ This repository contains my daily Data Structures and Algorithms practice soluti
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/dev-harsh-19/DSA-Journey/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/dev-harsh-19/DSA-Journey/tree/master/0020-valid-parentheses) |
 ## Array
 |  |
@@ -47,10 +48,12 @@ This repository contains my daily Data Structures and Algorithms practice soluti
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/dev-harsh-19/DSA-Journey/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/dev-harsh-19/DSA-Journey/tree/master/0042-trapping-rain-water) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/dev-harsh-19/DSA-Journey/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/dev-harsh-19/DSA-Journey/tree/master/0042-trapping-rain-water) |
 ## Linked List
 |  |
