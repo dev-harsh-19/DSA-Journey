@@ -63,6 +63,7 @@ This repository contains my daily Data Structures and Algorithms practice soluti
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/dev-harsh-19/DSA-Journey/tree/master/0002-add-two-numbers) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/dev-harsh-19/DSA-Journey/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Recursion
 |  |
 | ------- |
