@@ -33,6 +33,7 @@ This repository contains my daily Data Structures and Algorithms practice soluti
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dev-harsh-19/DSA-Journey/tree/master/0042-trapping-rain-water) |
+| [0455-assign-cookies](https://github.com/dev-harsh-19/DSA-Journey/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/dev-harsh-19/DSA-Journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/dev-harsh-19/DSA-Journey/tree/master/0503-next-greater-element-ii) |
 ## Hash Table
@@ -50,6 +51,7 @@ This repository contains my daily Data Structures and Algorithms practice soluti
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dev-harsh-19/DSA-Journey/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/dev-harsh-19/DSA-Journey/tree/master/0042-trapping-rain-water) |
+| [0455-assign-cookies](https://github.com/dev-harsh-19/DSA-Journey/tree/master/0455-assign-cookies) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -68,4 +70,12 @@ This repository contains my daily Data Structures and Algorithms practice soluti
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/dev-harsh-19/DSA-Journey/tree/master/0002-add-two-numbers) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/dev-harsh-19/DSA-Journey/tree/master/0455-assign-cookies) |
+## Sorting
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/dev-harsh-19/DSA-Journey/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
