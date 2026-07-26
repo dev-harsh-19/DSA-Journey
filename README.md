@@ -36,6 +36,7 @@ This repository contains my daily Data Structures and Algorithms practice soluti
 | [0455-assign-cookies](https://github.com/dev-harsh-19/DSA-Journey/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/dev-harsh-19/DSA-Journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/dev-harsh-19/DSA-Journey/tree/master/0503-next-greater-element-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/dev-harsh-19/DSA-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,6 +66,7 @@ This repository contains my daily Data Structures and Algorithms practice soluti
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/dev-harsh-19/DSA-Journey/tree/master/0002-add-two-numbers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/dev-harsh-19/DSA-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/dev-harsh-19/DSA-Journey/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Recursion
 |  |
@@ -78,4 +80,5 @@ This repository contains my daily Data Structures and Algorithms practice soluti
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/dev-harsh-19/DSA-Journey/tree/master/0455-assign-cookies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/dev-harsh-19/DSA-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 <!---LeetCode Topics End-->
