@@ -37,6 +37,7 @@ This repository contains my daily Data Structures and Algorithms practice soluti
 | [0496-next-greater-element-i](https://github.com/dev-harsh-19/DSA-Journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/dev-harsh-19/DSA-Journey/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dev-harsh-19/DSA-Journey/tree/master/0628-maximum-product-of-three-numbers) |
+| [0860-lemonade-change](https://github.com/dev-harsh-19/DSA-Journey/tree/master/0860-lemonade-change) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,6 +77,7 @@ This repository contains my daily Data Structures and Algorithms practice soluti
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/dev-harsh-19/DSA-Journey/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/dev-harsh-19/DSA-Journey/tree/master/0860-lemonade-change) |
 ## Sorting
 |  |
 | ------- |
