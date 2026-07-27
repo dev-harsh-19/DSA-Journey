@@ -38,6 +38,7 @@ This repository contains my daily Data Structures and Algorithms practice soluti
 | [0503-next-greater-element-ii](https://github.com/dev-harsh-19/DSA-Journey/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dev-harsh-19/DSA-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0860-lemonade-change](https://github.com/dev-harsh-19/DSA-Journey/tree/master/0860-lemonade-change) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dev-harsh-19/DSA-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,4 +84,9 @@ This repository contains my daily Data Structures and Algorithms practice soluti
 | ------- |
 | [0455-assign-cookies](https://github.com/dev-harsh-19/DSA-Journey/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dev-harsh-19/DSA-Journey/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dev-harsh-19/DSA-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dev-harsh-19/DSA-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
