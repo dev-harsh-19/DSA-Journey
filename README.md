@@ -32,6 +32,7 @@ This repository contains my daily Data Structures and Algorithms practice soluti
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/dev-harsh-19/DSA-Journey/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/dev-harsh-19/DSA-Journey/tree/master/0042-trapping-rain-water) |
 | [0455-assign-cookies](https://github.com/dev-harsh-19/DSA-Journey/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/dev-harsh-19/DSA-Journey/tree/master/0496-next-greater-element-i) |
@@ -42,6 +43,7 @@ This repository contains my daily Data Structures and Algorithms practice soluti
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/dev-harsh-19/DSA-Journey/tree/master/0001-two-sum) |
 | [0496-next-greater-element-i](https://github.com/dev-harsh-19/DSA-Journey/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
