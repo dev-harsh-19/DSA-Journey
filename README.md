@@ -40,11 +40,13 @@ This repository contains my daily Data Structures and Algorithms practice soluti
 | [0628-maximum-product-of-three-numbers](https://github.com/dev-harsh-19/DSA-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0860-lemonade-change](https://github.com/dev-harsh-19/DSA-Journey/tree/master/0860-lemonade-change) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dev-harsh-19/DSA-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/dev-harsh-19/DSA-Journey/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dev-harsh-19/DSA-Journey/tree/master/0001-two-sum) |
 | [0496-next-greater-element-i](https://github.com/dev-harsh-19/DSA-Journey/tree/master/0496-next-greater-element-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/dev-harsh-19/DSA-Journey/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Monotonic Stack
 |  |
 | ------- |
