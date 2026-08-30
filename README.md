@@ -40,6 +40,7 @@ This repository contains my daily Data Structures and Algorithms practice soluti
 | [0628-maximum-product-of-three-numbers](https://github.com/dev-harsh-19/DSA-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0860-lemonade-change](https://github.com/dev-harsh-19/DSA-Journey/tree/master/0860-lemonade-change) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dev-harsh-19/DSA-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/dev-harsh-19/DSA-Journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/dev-harsh-19/DSA-Journey/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
@@ -83,6 +84,7 @@ This repository contains my daily Data Structures and Algorithms practice soluti
 | ------- |
 | [0455-assign-cookies](https://github.com/dev-harsh-19/DSA-Journey/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/dev-harsh-19/DSA-Journey/tree/master/0860-lemonade-change) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/dev-harsh-19/DSA-Journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Sorting
 |  |
 | ------- |
