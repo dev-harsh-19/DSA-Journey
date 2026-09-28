@@ -13,6 +13,7 @@ This repository contains my daily Data Structures and Algorithms practice soluti
 | [0232-implement-queue-using-stacks](https://github.com/dev-harsh-19/DSA-Journey/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/dev-harsh-19/DSA-Journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/dev-harsh-19/DSA-Journey/tree/master/0503-next-greater-element-ii) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dev-harsh-19/DSA-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
 |  |
 | ------- |
@@ -29,6 +30,7 @@ This repository contains my daily Data Structures and Algorithms practice soluti
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dev-harsh-19/DSA-Journey/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/dev-harsh-19/DSA-Journey/tree/master/0020-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dev-harsh-19/DSA-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Array
 |  |
 | ------- |
@@ -106,4 +108,8 @@ This repository contains my daily Data Structures and Algorithms practice soluti
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/dev-harsh-19/DSA-Journey/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/dev-harsh-19/DSA-Journey/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/dev-harsh-19/DSA-Journey/tree/master/1757-recyclable-and-low-fat-products) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dev-harsh-19/DSA-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
